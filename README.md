@@ -41,7 +41,7 @@ Each department is placed in a separate VLAN for better performance and security
 ---
 
 ## Network Topology Diagram
-![Topology](network-topology.png)
+![Topology](PROJECT.jpg)
 
 ---
 
